@@ -16,4 +16,6 @@ for i in range(count_of_teams):
 for u in (teams):
     print(u)
 
+
+# test
    
